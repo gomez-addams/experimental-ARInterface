@@ -33,3 +33,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 UnityPackageManager
+
+# Ignore some more stuff (the new packages folder?)
+.DS_Store
+/Packages/

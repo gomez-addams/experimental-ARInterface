@@ -1,5 +1,12 @@
 # experimental-ARInterface
-Experimental cross-platform framework for mobile AR shown as part of ["So You Think You Can Augment Reality?" talk](https://youtu.be/oNekBgognFE) at Unite Austin 2017.  Also see [blog post](https://blogs.unity3d.com/2017/11/01/experimenting-with-multiplayer-arcore-and-arkit-jump-in-with-sample-code/).
+
+## :warning: Deprecated
+
+This repo is no longer maintained and has been superseded by the [ARFoundation Package](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@1.0/manual/index.html), compatible with Unity 2018.1+.
+
+## This is a demo
+
+This is the source to an experimental multi-platform framework for handheld AR demo shown as part of ["So You Think You Can Augment Reality?" talk](https://youtu.be/oNekBgognFE) at Unite Austin 2017.  Also see [blog post](https://blogs.unity3d.com/2017/11/01/experimenting-with-multiplayer-arcore-and-arkit-jump-in-with-sample-code/).
 
 ## Prerequisites
 
